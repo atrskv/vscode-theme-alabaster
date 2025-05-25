@@ -25,7 +25,16 @@ Additionally:
 
 - Alabaster only highlights things that parser could identify reliably. I believe that if highlighting works only partially then it does more harm than good. When highlighting works reliably, your brain learns to rely on it. When it’s not reliable, your brain spends precious brain cycles to re-check everything it sees on the screen.
 
-![Screenshot](https://raw.githubusercontent.com/tonsky/vscode-theme-alabaster/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/atrskv/vscode-theme-alabaster/master/images/screenshot-var-1.png)
+
+## Variations
+
+[Alabaster BG](https://github.com/tonsky/sublime-scheme-alabaster) is a variation of the same scheme, but it uses background color for highlighting instead of text color. The idea is that it is easier to read when all text is black rather than when it changes color every few words. The colored background in that case creates a separate layer which is easier to ignore if you just trying to read the words.
+
+![Screenshot](https://raw.githubusercontent.com/atrskv/vscode-theme-alabaster/master/images/screenshot-var-2.png)
+
+To enable background color highlighting based on regex patterns, you need to install the [Highlight extension](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-highlight). It reads the following settings from your [settings.json](https://raw.githubusercontent.com/atrskv/vscode-theme-alabaster/master/settings.json) and applies the background color effects.
+
 
 ## What our users [are saying](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster&ssr=false#review-details)?
 
