@@ -134,6 +134,7 @@
         "editorLineNumber.foreground": "#999999",
         "editorLineNumber.activeForeground": "#585858",
         "editorCursor.foreground": "#007ACC",
+        "editorCursor.background": "#FFFFFF",
         "editor.findMatchBackground": "#B4D8FD",
         "editor.findMatchHighlightBackground": "#FFBC5D",
         "editor.stackFrameHighlightBackground": "#B4D8FD",
